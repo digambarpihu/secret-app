@@ -3,7 +3,8 @@
 
 ## 🚀 Live Demo
 
-- [Netlify Deployment](https://strong-melomakarona-d38959.netlify.app)
+- 🌐 [Netlify Deployment](https://strong-melomakarona-d38959.netlify.app)
+- ▲ [Vercel Deployment](https://<your-vercel-link>.vercel.app) <!-- Replace this with your actual vercel link -->
 
 ## 🛠 Tech Stack
 
