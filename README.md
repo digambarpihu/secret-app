@@ -1,30 +1,41 @@
-# 📝 Keeper App
+# 🗒️ Keeper App
 
+यह एक React.js आधारित Keeper App प्रोजेक्ट है, जिसमें यूजर notes को create और delete कर सकते हैं।  
+यह Google Keep से inspired एक mini web app है।
 
-## 🚀 Live Demo
+---
+
+## 🚀 Live Demos
 
 - 🌐 [Netlify Deployment](https://strong-melomakarona-d38959.netlify.app)
 - ▲ [Vercel Deployment](https://<your-vercel-link>.vercel.app) <!-- Replace this with your actual vercel link -->
 
-## 🛠 Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 - React.js
 - JSX
-- Bootstrap (या Tailwind CSS)
-- Hooks (useState, useEffect)
+- CSS (Bootstrap या Tailwind CSS)
 
-## 🎯 Features
+---
 
-- Add a new note
-- Delete a note
-- Responsive design
-- Reusable components
-- Props से data passing
-- सिर्फ arrow functions का use
+## ✨ Features
 
-## ⚙️ Installation
+- Notes को Create और Delete करने की सुविधा
+- Simple और Responsive UI
+- Component-based architecture
+- State Management using React hooks
 
-1. इस repo को clone करें:
+---
 
-```bash
-git clone <your-repo-link>
+## 🧩 Problems Faced & Solutions
+
+- ❌ **Problem:** First-time deployment पर CSS काम नहीं कर रही थी  
+  ✅ **Solution:** CSS files को सही तरीके से import किया और build step को दोबारा check किया
+
+- ❌ **Problem:** Netlify पर build फेल हो रहा था  
+  ✅ **Solution:** `homepage` field को `package.json` में हटाया और deploy command ठीक किया
+
+---
+
